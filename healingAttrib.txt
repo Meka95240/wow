@@ -47,8 +47,8 @@
 
 
 /5 @Répartition des healers 8eme Boss BWL (Néfarian)
-/5 Blood => Candice(R+B) + Floreil + Joulay + Bison
-/5 CAC => Chand, Ayamé, Meka, 
+/5 Blood => Candice(R+B) + Chand + Joulay + Bison
+/5 CAC => Ayamé, Meka 
 /5 Ranged => Gliphe, Daenedry
 /5 Dispell magie => Ayamé + Daenedry
 
