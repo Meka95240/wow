@@ -1,1 +1,66 @@
+/5 @Répartition des healers 1er Boss BWL (Tranchetripe)
+/5 Blood => Floreil + Chand + Candice(R+B) +  Bison
+/5 Matoh => Daenedry + Bison
+/5 CAC => Kumal, Ayamé, Meka, Gliphe
+/5 Ranged => Joulay
 
+
+/5 @Répartition des healers 2eme Boss BWL (Vaelastrasz) 
+/5 Rénov MT1 + son groupe => Candice (R+B)
+/5 Daenedry + Gliphe sur MT1
+/5 Pretre POH Groupe + FH les groupes sans Prêtres
+/5 Bison MT1 + HoT groupe MT
+/5 Meka + Kumal sur Raid
+
+
+/5 @Répartition des healers 3eme Boss BWL (Lashlayer)
+/5 Blood(4+1) => Floreil + Chand + Joulay + Candice(R+B) + Bison
+/5 Matoh => Daenedry + Bison
+/5 CAC => Ayamé, Meka, Gliphe
+/5 Ranged => Kumal
+/5 Ayamé + Daenedry flash après Frappe Mortelle
+
+
+/5 @Répartition des healers 4eme Boss BWL (Gueule-de-feu)
+/5 Blood =>  Chand + Floreil  + Candice(R+B) + Bison
+/5 Matoh => Bison
+/5 CAC => Joulay, Ayamé, Meka, Gliphe, Daenedry
+/5 Ranged => Kumal
+
+
+/5 @Répartition des healers 5eme Boss BWL (Rochébène)
+/5 Blood => Chand + Floreil + Bison + Candice(R+B)
+/5 Matoh => Ayamé + Bison
+/5 Neloktar =>  Daenedry + Gliphe
+/5 Raid => Kumal + Meka + Joulay
+
+
+/5 @Répartition des healers 6eme Boss BWL (Flamegor)
+/5 Neloktar => Candice(R+B) + Floreil + Daenedry + Chand + Bison
+/5 CAC => Meka, Gliphe, Ayamé
+/5 Ranged => Joulay, Kumal
+
+
+/5 @Répartition des healers 7eme Boss BWL (Chrommagus)
+/5 Blood => Ayamé, Candice (R+B) + Floreil + Bison
+/5 Dispell magie => Daenedry, Chand
+/5 Dispell Maladie => Méka, Kumal
+/5 Dispell Poison => Gliphe, Bison
+/5 CAC => Méka, Gliphe
+/5 Ranged => Joulay, Kumal
+
+
+/5 @Répartition des healers 8eme Boss BWL (Néfarian)
+/5 Blood => Candice(R+B) + Floreil + Joulay + Bison
+/5 CAC => Chand, Ayamé, Meka, 
+/5 Ranged => Gliphe, Daenedry
+/5 Dispell magie => Ayamé + Daenedry
+
+
+/5 @Répartition des healers TRASH BWL
+/5 Blood => Candice(R+B) + Floreil
+/5 Neloktar => Chand(R+B) + Ayamé
+/5 Matoh => Daenedry + Bison 
+/5 MT4 => Joulay + Bison
+/5 CAC => Meka, Gliphe + pretre quand pas de MT 3,4
+/5 Ranged => Meka, Gliphe + pretre quand pas de MT 3,d
