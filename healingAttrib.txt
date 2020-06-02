@@ -1,62 +1,62 @@
 /5 @Répartition des healers 1er Boss BWL (Tranchetripe)
-/5 Blood => Joulay + Chand + Candice(R+B) + Bison
-/5 Matoh => Daenedry + Bison
+/5 MT1 => Candice(R+B), Joulay, Chand, Bison
+/5 MT2 => Floreil, Bison
 /5 CAC, Ranged => Kumal, Ayamé, Meka, Gliphe
+
 
 
 /5 @Répartition des healers 2eme Boss BWL (Vaelastrasz) 
 /5 Rénov MT1 + son groupe => Candice (R+B)
-/5 Daenedry + Gliphe sur MT1
+/5 Chand, Gliphe sur MT1
 /5 Pretre POH Groupe + FH les groupes sans Prêtres
 /5 Bison MT1 + HoT groupe MT
-/5 Meka + Kumal sur Raid
+/5 Meka, Kumal sur Raid
 
 
 /5 @Répartition des healers 3eme Boss BWL (Lashlayer)
-/5 Neloktar(4+1) => Chand + Joulay + Candice(R+B) + Bison
-/5 Blood => Daenedry + Bison
-/5 CAC,Ranged => Ayamé, Meka, Gliphe, Kumal
-/5 Ayamé + Daenedry flash après Frappe Mortelle
+/5 MT1(4+1) => Candice(R+B), Chand, Joulay, Bison
+/5 MT2 => Floreil, Bison
+/5 CAC, Ranged => Ayamé, Meka, Gliphe, Kumal
 
 
 /5 @Répartition des healers 4eme Boss BWL (Gueule-de-feu)
-/5 Neloktar => Chand + Daenedry + Candice(R+B) + Bison
-/5 Blood => Bison
+/5 MT1 => Chand, Floreil, Candice(R+B), Bison
+/5 MT2 => Bison
 /5 CAC, Ranged => Joulay, Ayamé, Meka, Gliphe, Kumal
 
 
 /5 @Répartition des healers 5eme Boss BWL (Rochébène)
-/5 Neloktar => Candice(R+B) + Chand + Bison
-/5 Blood => Ayamé + Bison
-/5 Matoh =>  Daenedry + Gliphe
-/5 Raid => Kumal + Meka + Joulay
+/5 MT1 => Candice(R+B), Chand, Bison
+/5 MT2 => Ayamé, Joulay
+/5 MT3 => Floreil, Bison
+/5 Raid => Kumal, Meka, Gliphe
 
 
 /5 @Répartition des healers 6eme Boss BWL (Flamegor)
-/5 Neloktar => Candice(R+B) + Joulay + Chand + Bison
-/5 CAC,Ranged => Meka, Gliphe, Ayamé, Daenedry, Kumal
+/5 MT1 => Candice(R+B), Floreil, Chand, Bison
+/5 MT2 => Joulay, Ayamé, Bison
+/5 CAC,Ranged => Meka, Gliphe, Kumal
 
 
 /5 @Répartition des healers 7eme Boss BWL (Chrommagus)
-/5 Neloktar => Ayamé, Joulay + Candice (R+B) + Bison
-/5 Dispell Magie => Daenedry, Chand
-/5 Dispell Maladie => Méka, Daenedry
+/5 MT1 => Candice (R+B), Ayamé, Joulay, Floreil, Bison
+/5 Dispell Magie => Joulay, Chand
+/5 Dispell Maladie => Méka, Kumal
 /5 Dispell Poison => Gliphe, Bison
 /5 CAC => Méka, Gliphe
 /5 Ranged => Kumal
 
 
 /5 @Répartition des healers 8eme Boss BWL (Néfarian)
-/5 Blood => Candice(R+B) + Chand + Joulay + Bison
-/5 CAC => Ayamé, Meka 
-/5 Ranged => Gliphe, Daenedry
-/5 Dispell magie => Ayamé + Daenedry
-
+/5 Blood => Candice(R+B), Chand, Joulay, Floreil, Bison
+/5 CAC => Ayamé, Meka
+/5 Ranged => Gliphe, Kumal
+/5 Dispell magie => Ayamé, Floreil
+/5 Racial Pretre: Chand => Flo => Candice => Joulay 
 
 /5 @Répartition des healers TRASH BWL
-/5 Neloktar => Candice(R+B) + Joulay
-/5 Blood => Chand(R+B) + Ayamé
-/5 Matoh => Daenedry + Bison 
-/5 MT4 => Gliphe + Bison
-/5 CAC => Meka, Gliphe + pretre quand pas de MT 3, 4
-/5 Ranged => Meka, Gliphe + pretre quand pas de MT 3, 4
+/5 Crane => Candice(R+B), Chand
+/5 Croix => Joulay(R+B), Ayamé
+/5 Carre => Floreil, Bison 
+/5 Lune => Gliphe, Bison
+/5 CAC, Ranged => Meka, Kumal + pretre quand pas de MT 3, 4
