@@ -20,6 +20,7 @@
 
 
 /5 @Répartition des healers 4eme Boss BWL (Gueule-de-feu)
+/5 Buff RO pre-fight
 /5 MT1 => Chand, Floreil, Candice(R+B), Bison
 /5 MT2 => Bison
 /5 CAC, Ranged => Joulay, Ayamé, Meka, Gliphe, Kumal
@@ -50,9 +51,10 @@
 /5 @Répartition des healers 8eme Boss BWL (Néfarian)
 /5 Blood => Candice(R+B), Chand, Joulay, Floreil, Bison
 /5 CAC => Ayamé, Meka
-/5 Ranged => Gliphe, Kumal
+/5 Ranged => Gliphe,Kumal
 /5 Dispell magie => Ayamé, Floreil
 /5 Racial Pretre: Chand => Flo => Candice => Joulay 
+/5 Buff RO pre-fight
 
 /5 @Répartition des healers TRASH BWL
 /5 Crane => Candice(R+B), Chand
