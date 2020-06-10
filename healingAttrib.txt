@@ -1,7 +1,7 @@
 /5 @Répartition des healers 1er Boss BWL (Tranchetripe)
 /5 MT1 => Candice(R+B), Joulay, Chand, Bison
 /5 MT2 => Floreil, Bison
-/5 CAC, Ranged => Kumal, Ayamé, Meka, Gliphe
+/5 CAC, Ranged => Daenedry, Ayamé, Meka, Gliphe
 
 
 
