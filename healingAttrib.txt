@@ -57,8 +57,8 @@
 /5 Buff RO pre-fight
 
 /5 @Répartition des healers TRASH BWL
-/5 Crane => Candice(R+B), Chand
-/5 Croix => Joulay(R+B), Ayamé
+/5 Crane => Candice(R+B), Ayamé
+/5 Croix => Joulay(R+B), Daenedry
 /5 Carre => Floreil, Bison 
 /5 Lune => Gliphe, Bison
-/5 CAC, Ranged => Meka, Kumal + pretre quand pas de MT 3, 4
+/5 CAC, Ranged => Meka, Chand + pretre quand pas de MT 3, 4
